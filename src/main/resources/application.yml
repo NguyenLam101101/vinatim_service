@@ -1,0 +1,21 @@
+google:
+    cloud:
+        bucket-name: vinatim_bucket
+        oath:
+            path: C:/Users/nguye/Documents/Java_project/Vinatim/config/directed-post-405515-179b540f77ea.json
+        project-id: directed-post-405515
+powerbi:
+
+secret-key: GVghvklnjDESEWsrr56RTUhjoU98jJBhg324DRygvjhIUh536gui2BJHVghf4h4TYhBhj
+spring:
+    data:
+        mongodb:
+            database: vinatim
+            uri: mongodb+srv://admin:vinatim%40123456@vinatim.yu17xts.mongodb.net/
+    servlet:
+        multipart:
+            max-file-size: 2MB
+            max-request-size: 2MB
+url:
+    web-server: http://34.143.138.70:3000
+#    web-server: http://192.168.124.115:3000

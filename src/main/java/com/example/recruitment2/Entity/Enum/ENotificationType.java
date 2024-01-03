@@ -1,0 +1,18 @@
+package com.example.recruitment2.Entity.Enum;
+
+public enum ENotificationType {
+    APPROVE_ORGANIZATION,
+    APPROVE_EVENT,
+    COMPLAIN,
+    CONFIRM_PAY,
+    APPROVED_ORGANIZATION,
+    APPROVED_EVENT,
+    DONATE,
+    CONFIRM_PROOF,
+    STATUS_COMPLAIN,
+    STATUS_PROOF,
+    COMMENT_POST,
+    LIKE_POST,
+    SHARE_POST,
+    REPLY_COMMENT
+}
